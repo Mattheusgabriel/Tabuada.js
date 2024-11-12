@@ -1,0 +1,43 @@
+body {
+    padding: 0 auto;
+    margin: 0 auto;
+    box-sizing: border-box;
+    outline: 0 auto;
+    font-size: 16pt;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #00ffff2b;
+}
+
+header {
+    min-width: 100%;
+    text-align: center;
+}
+
+section {
+    background-color: #ffffffff;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+section div {
+    width: 350px;
+    margin: auto;
+}
+
+input {
+    padding: 4px;
+}
+
+select {
+    padding: 20px;
+}
+
+footer {
+    min-width: 100%;
+    text-align: center;
+    font-size: 8pt;
+    font-weight: bolder;
+    padding-top: 15px;
+}
